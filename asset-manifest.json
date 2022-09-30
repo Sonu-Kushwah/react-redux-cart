@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/react-redux-cart/static/css/main.fd11d74e.css",
+    "main.js": "/react-redux-cart/static/js/main.972fdbe5.js",
+    "static/js/787.5659d6ac.chunk.js": "/react-redux-cart/static/js/787.5659d6ac.chunk.js",
+    "static/media/logo.svg": "/react-redux-cart/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/react-redux-cart/index.html",
+    "main.fd11d74e.css.map": "/react-redux-cart/static/css/main.fd11d74e.css.map",
+    "main.972fdbe5.js.map": "/react-redux-cart/static/js/main.972fdbe5.js.map",
+    "787.5659d6ac.chunk.js.map": "/react-redux-cart/static/js/787.5659d6ac.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd11d74e.css",
+    "static/js/main.972fdbe5.js"
+  ]
+}
